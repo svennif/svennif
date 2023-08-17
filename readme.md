@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        [LinkedIn]([https://svenni.io](https://www.linkedin.com/in/sven-ingar-frantzen-45bb26161)/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

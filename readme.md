@@ -10,7 +10,7 @@
 - 📫 How to reach me **sven.ingar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[LinkedIn](https://www.linkedin.com/in/sven-ingar-frantzen-45bb26161)
+<a href="https://www.linkedin.com/in/sven-ingar-frantzen-45bb26161">LinkedIn</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://shopify.dev/docs/api/liquid" target="_blank" rel="noreferrer">

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Clerk.io](https://clerk.io)
 
-- 🌱 I’m currently learning **Vue, Laravel, Python**
+- 🌱 I’m currently learning **Vue, Node, Python**
 
 - 👨‍💻 All of my projects are available at [https://svenni.io/](https://svenni.io/)
 

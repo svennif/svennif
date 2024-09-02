@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://svenni.io/](https://svenni.io/)
+- 👨‍💻 All of my projects are available at [https://svenni.dev/](https://svenni.dev/)
 
 - 📫 How to reach me **sven.ingar@gmail.com**
 

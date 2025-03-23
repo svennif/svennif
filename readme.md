@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [Clerk.io](https://clerk.io)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Azure, Terraform, ReactJS, NextJS, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://svenni.dev/](https://svenni.dev/)
 
-- 📫 How to reach me **sven.ingar@gmail.com**
+- 📫 How to reach me **me@svenni.dev**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sven-ingar-frantzen-45bb26161">LinkedIn</a>

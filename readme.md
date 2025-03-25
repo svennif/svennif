@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at [Clerk.io](https://clerk.io)
 
-- 🌱 I’m currently learning **Azure, Terraform, ReactJS, NextJS, MySQL**
-
-- 👨‍💻 All of my projects are available at [https://svenni.dev/](https://svenni.dev/)
+- 🌱 I’m currently learning **Azure, Terraform, ReactJS, NextJS, MySQL**  
 
 - 📫 How to reach me **me@svenni.dev**
 

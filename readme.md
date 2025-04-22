@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sven Ingar Frantzen</h1>
 <h3 align="center">Frontend developer currently located in Copenhagen</h3>
 
-- 🔭 I’m currently working at [Clerk.io](https://clerk.io)
+- 🔭 I’m currently working at [Bibs](https://bibsworld.com/)
 
 - 🌱 I’m currently learning **Azure, Terraform, ReactJS, NextJS, MySQL**  
 

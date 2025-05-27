@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Bibs](https://bibsworld.com/)
 
-- 🌱 I’m currently learning **Azure, Terraform, ReactJS, NextJS, MySQL**  
+- 🌱 I’m currently learning ****  
 
 - 📫 How to reach me **me@svenni.dev**
 
